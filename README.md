@@ -51,6 +51,16 @@ Open:
 http://127.0.0.1:8050/
 ```
 
+## Dashboard Preview
+
+### Dashboard - Part 1
+
+![Dashboard 1](dashboard1.png)
+
+### Dashboard - Part 2
+
+![Dashboard 2](dashboard2.png)
+
 ## Author
 
 **Sahara Rampal**
