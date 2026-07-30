@@ -55,11 +55,11 @@ http://127.0.0.1:8050/
 
 ### Dashboard - Part 1
 
-![Dashboard 1](dashboard1.png)
+![Dashboard 1](dashboard-1.png)
 
 ### Dashboard - Part 2
 
-![Dashboard 2](dashboard2.png)
+![Dashboard 2](dashboard-2.png)
 
 ## Author
 
